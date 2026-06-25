@@ -1,4 +1,4 @@
-0,pop_migrated,MOE +/-,state_population,state_pop_adjusted,moe_adjusted
+0,pop_migrated,MOE +/-,state_population,migrated_adjusted,moe_adjusted
 Alabama,316,217,5024279,6.289459641871003e-05,4.3190276654620496e-05
 Alaska,579,658,733391,0.0007894833724438942,0.0008972021745562736
 Arizona,79,130,7151502,1.1046630484057754e-05,1.817799953072795e-05
